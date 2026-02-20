@@ -125,7 +125,7 @@ UI → BLoC/Cubit → UseCase → Repository (contrato) → RepositoryImpl → D
 
 ### Por que Clean Architecture?
 
-A separação em Domain, Data e Presentation garante que a **regra de negócio seja independente** de frameworks, banco de dados e UI. Isso facilita testes unitários, manutenção e escalabilidade — se amanhã quisermos trocar SQLite por Firebase, apenas a camada de Data é alterada.
+A separação em Domain, Data e Presentation garante que a **regra de negócio seja independente** de frameworks, banco de dados e UI. Isso facilita testes unitários, manutenção e escalabilidade — se amanhã for necessario trocar SQLite por Firebase, apenas a camada de Data é alterada.
 
 ### Por que BLoC para hábitos e Cubit para categorias?
 
