@@ -16,6 +16,37 @@ O **HabitFlow** é um app de rastreamento de hábitos desenvolvido com foco em b
 
 ---
 
+## 🖼️ Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Splash</b></td>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Home vazia</b></td>
+    <td align="center"><b>Progresso parcial</b></td>
+    <td align="center"><b>Tudo concluído</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/splash.png" width="180"/></td>
+    <td><img src="screenshots/home.png" width="180"/></td>
+    <td><img src="screenshots/home_empty.png" width="180"/></td>
+    <td><img src="screenshots/partial_progress.png" width="180"/></td>
+    <td><img src="screenshots/all_done.png" width="180"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Criar hábito</b></td>
+    <td align="center"><b>Detalhes e streak</b></td>
+    <td align="center"><b>Editar hábito</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/create_screen.png" width="180"/></td>
+    <td><img src="screenshots/detail_screen.png" width="180"/></td>
+    <td><img src="screenshots/edit_screen.png" width="180"/></td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Funcionalidades
 
 - ✅ Criar, editar e excluir hábitos
@@ -26,12 +57,6 @@ O **HabitFlow** é um app de rastreamento de hábitos desenvolvido com foco em b
 - 📈 Estatísticas de taxa de conclusão
 - 💾 Persistência local com SQLite
 - 🎨 Visual minimalista e clean
-
----
-
-## 🖼️ Screenshots
-
-> Em breve
 
 ---
 
@@ -145,18 +170,6 @@ flutter run
 
 ---
 
-## 🧪 Testes
-
-```bash
-# Rodar todos os testes
-flutter test
-
-# Rodar testes de uma feature específica
-flutter test test/features/habits/
-```
-
----
-
 ## 📂 Organização dos Use Cases
 
 | Use Case                | Descrição                                         |
@@ -181,3 +194,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## 📄 Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+
+---
+
+<p align="center">Feito com 💜 e Flutter</p>
