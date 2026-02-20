@@ -156,7 +156,7 @@ A lógica de streak foi isolada na classe `StreakCalculator` dentro da camada de
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/habit_flow.git
+git clone https://github.com/mathsant/habit_flow.git
 
 # Acesse a pasta
 cd habit_flow
